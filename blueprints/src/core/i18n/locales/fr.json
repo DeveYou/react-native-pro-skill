@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Votre application",
+    "welcome": "Bienvenue",
+    "loading": "Chargement…",
+    "retry": "Réessayer",
+    "empty": "Aucun élément pour le moment",
+    "error": "Une erreur s’est produite"
+  },
+  "settings": {
+    "language": "Langue",
+    "appearance": "Apparence",
+    "system": "Utiliser les réglages de l’appareil",
+    "light": "Clair",
+    "dark": "Sombre",
+    "restartRequired": "Redémarrez l’application pour appliquer le sens d’affichage."
+  }
+}

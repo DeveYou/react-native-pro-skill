@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      ["expo-localization", { "supportedLocales": ["en", "fr", "ar"], "supportsRTL": true }]
+    ]
+  }
+}

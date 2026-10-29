@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Your App",
+    "welcome": "Welcome",
+    "loading": "Loading…",
+    "retry": "Try again",
+    "empty": "Nothing here yet",
+    "error": "Something went wrong"
+  },
+  "settings": {
+    "language": "Language",
+    "appearance": "Appearance",
+    "system": "Use device settings",
+    "light": "Light",
+    "dark": "Dark",
+    "restartRequired": "Restart the app to apply the layout direction."
+  }
+}
